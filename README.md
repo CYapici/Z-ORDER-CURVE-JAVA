@@ -1,7 +1,7 @@
 
 
 // == ZOrderCurve ==
-// Copyright(c) Cagatay Yapici, 2013  
+// Copyright(c) Cagatay Yapici, 2015  
 // cagatayyapici@windowslive.com
  
 Z ORDER CURVE AKA MORTON ORDER IMPLEMENTATION IN JAVA 
